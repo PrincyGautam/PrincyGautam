@@ -1,4 +1,5 @@
-<h3 align="left">I'm Princy Gautam, final year bioengineering student at IITJ. I enjoy work related to biology, coding and immunotechnology.</h3>
+<h3 align="left">Hi there 👋
+<h3 align="left">I'm Princy Gautam, final-year Bioengineering student at IITJ. I enjoy work related to biology, coding and immunotechnology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princygautam&label=Profile%20views&color=0e75b6&style=flat" alt="princygautam" /> </p>
 
