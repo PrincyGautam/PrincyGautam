@@ -1,17 +1,17 @@
 <h3 align="left">Hi there 👋
-<h3 align="left">I'm Princy Gautam, final-year Bioengineering student at IITJ. I enjoy work related to biology, coding and immunotechnology.</h3>
+<h3 align="left">I'm Princy Gautam, IIT Jodhpur 2024 Alumni. I enjoy solving real-world data problems using my python and SQL skillset .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princygautam&label=Profile%20views&color=0e75b6&style=flat" alt="princygautam" /> </p>
 
-- 👩‍💻Fields of interest - **computational biology and Machine Learning.**
+- 👩‍💻Fields of interest - **Data Engineering, Machine Learning and Statistics and Probability.**
 
-- 🌱 I’m looking forward to learn more about - **algorithms in biology and ML**
+- 🌱 I’m looking forward to learn more about - **Python expertise and master BI tools**
 
-- ✔️ I have experience in - **ML/DL applied in biology, analysing and developing algorithms for predicting gene expression data.**
+- ✔️ I have experience in - **data analysis, process automation and workflows**
 
-- 🙂 Apart from my research interests **I'm into sports and graphic designing** 
+- 🙂 Apart from my research interests **I'm into sports and event management tasks** 
 
-- 📫 How to reach me: **gautam.4@iitj.ac.in**
+- 📫 How to reach me: **princyg561@gmail.com**
 
 <h3 align="left">🌐Socials:</h3>
 <p align="left">
