@@ -9,7 +9,7 @@
 
 - ✔️ I have experience in - **data analysis, process automation and workflows**
 
-- 🙂 Apart from my research interests **I'm into sports and event management tasks** 
+- 🙂 Apart from my professional life **I'm into sports and event management tasks** 
 
 - 📫 How to reach me: **princyg561@gmail.com**
 
